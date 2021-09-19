@@ -10,3 +10,4 @@ function debug(message) {
 
 module.exports.log = log;
 module.exports.debug = debug;
+module.exports.url = url;
