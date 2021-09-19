@@ -1,5 +1,5 @@
-const logger = require('./logger')
+const http = require('http');
 
-logger.log('heyll');
-logger.debug('debug hoohoho');
-console.log(logger.url)
+const server = http.createServer();
+
+server.listen(3000);
