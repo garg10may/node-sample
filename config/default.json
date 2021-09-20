@@ -1,3 +1,4 @@
 {
-  "name": "My sample express App, dev"
+  "name": "My sample express App, dev",
+  "mail" : "test@example.com"
 }
